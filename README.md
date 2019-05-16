@@ -31,10 +31,10 @@ uno de pelis de terror... o... ¡lo que quieras!
 
  ## Consideraciones generales
 
- * Este proyecto se debe resolver en equipos de hasta 3 personas.
+ * Este proyecto se debe resolver en equipos de hasta 4 personas.
 * Usa la API de [OMDB](http://www.omdbapi.com/) (The Open Movie Database).
 * Tiempo para completar el reto: 3 días.
-* Habrán dos presentaciones, una a la mitad de la _hackathon_ y otra al final.
+
 
  ## Objetivos de aprendizaje
 
@@ -59,11 +59,6 @@ proyecto.
 sin embargo, si no quieren crearlo desde cero, pueden utilizar el que
 propuso [Walmart](https://drive.google.com/file/d/0B6GBtl-gO6LwaVprQkFqTGI2a28/view).
 * Deberán usar al menos un framework de css.
-
-## Reglas de las presentaciones: 
-* Cada squad tendrá 5 minutos para presentar su demo y 5 minutos para recibir preguntas. 
-
-* Las personas que presentan en la primera presentación no deben ser las mismas de la presentación final 
 
 
 ## Horario
@@ -93,4 +88,4 @@ propuso [Walmart](https://drive.google.com/file/d/0B6GBtl-gO6LwaVprQkFqTGI2a28/v
 La feria de demos se realizará el día de las presentaciones, consiste en la dinámica de “speed dating”, cada squad presentará su demo durante 3 minutos a un grupo de personas, entre ellos los jurados de la Hackathon. Luego de los 3 minutos sonará una chicharra y el grupo de personas rotará al siguiente squad, de esta forma deberán presentar durante una hora. 
 
 * Las demos no deben durar más de 3 minutos y deben mostrar el producto y las tecnologías usadas.
-* Los asistentes van a votar por los 5 equipos finalistas, quienes tendrán la oportunidad de hacer su demo a todo el público para poder elegir un ganador. 
+* Los asistentes van a votar por los 4 equipos finalistas, quienes tendrán la oportunidad de hacer su demo a todo el público para poder elegir un ganador. 
