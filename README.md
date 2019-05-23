@@ -1,4 +1,4 @@
-#Índice
+# Índice
  * [La Comunidad del Anillo](#la-comunidad-del-anillo)
  * [Modo de Uso](#modo-de-uso)
  * [Inspiración y Planificación](#inspiración-y-planificación)
@@ -8,7 +8,7 @@
  * [Equipo](#equipo)
 
 
-##La Comunidad del Anillo
+## La Comunidad del Anillo
 ![el anillo](http://statuecollectibles.com/storage/the-ring-lord-of-the-rings-jrr-tolkien.jpg)
 
 **La Comunidad del Anillo** es una aplicación orientada a fanaticos de la saga *El Señor de los Anillos* y el mundo de J.R.R. Toklien, autor de los libros de los cuales fueron adaptadas las peliculas.
@@ -18,7 +18,7 @@ Además, el sitio cuenta con una galería de arte con dibujos, pinturas, arte di
 Finalmente, el usuario tendrá la posibilidad de conectar con otros fans a través de las redes sociales sugeridas en nuestro sitio.
 
 -------
-##Modo de Uso
+## Modo de Uso
 ![ourpage](https://i.ibb.co/Q6d5SyM/screenshot.jpg)
 (prototipo Figma)
 
@@ -27,37 +27,37 @@ La barra de menú en la parte superior te llevará a todo lo que puedes acceder 
 
 -------
 
-##Inspiración y Planificación
+## Inspiración y Planificación
 Para la creación del proyecto, nos inspiramos en ofrecerle un espacio a nuestros usuarios que fuera mas allá de únicamente ver peliculas en línea. Quicímos brindar una experiencia más placentera y plena ya que la mayoría de fans de la saga de *El Señor de los Anillos* que se entrevistaron también son amantes de los libros y del mundo de Tolkien en general.
 
 Durante la duración del proyecto utilizamos la herramienta [Trello](https://trello.com/b/aNlnrLUQ/hackaton-pel%C3%ADculas-009) para mantener una organzación mas ordenada y nos mantuvimos en contacto constante para lograr un producto uniforme.
 
 -------
-##Historias de Usuario
+## Historias de Usuario
 * **Como** fan de la saga de *El Señor de los Anillos* quiero encontrar **dónde** ver las películas grátis en línea **para** tener acceso fácil a ellas.
 * **Como** amante del mundo de Tolkien quiero **acceder** a comunidades en Chile de otros fans **para** hacer amigos con gustos similares.
 
 ---------
-##Prototipado
-###Flujo de Usuario
+## Prototipado
+### Flujo de Usuario
 ![flujousuario](https://i.ibb.co/nBxtL9v/flujo-usuario.jpg)
 
-###Sketch
+### Sketch
 ![sketches](https://i.ibb.co/ygKL6Mw/sketch-0.jpg)![sketches](https://i.ibb.co/X7KKvbj/sketch-1.jpg)![sketches](https://i.ibb.co/b25w035/sketch-2.jpg)
 
-###Prototipo Baja Fidelidad
+### Prototipo Baja Fidelidad
 ![bajafidelidad](https://i.ibb.co/CHN6DTJ/baja-fidelidad.jpg)
 ![gif](https://media.giphy.com/media/YQLwysm1lQW8T6BWxg/giphy.gif)
 El test de usuario de baja fidelidad se encuentra en el siguiente enlace: [YouTube](https://www.youtube.com/watch?v=-sEozLmTijY&feature=youtu.be)
 
-###Prototipo Alta Fidelidad
+### Prototipo Alta Fidelidad
 ![figma](https://i.ibb.co/J2ZW82N/alta-fidelidad.jpg)
 El prototipo de alta fidelidad completo se puede visualizar en [Figma.](https://www.figma.com/file/UafrePR5ALJyz59XhTSgJov0/LOTR?node-id=0%3A1)
 
 -------
-##Futuras Mejoras
+## Futuras Mejoras
 -------
-##Equipo
+## Equipo
 Integrantes y division de tareas:
 | Laura         | Agatha        | Maria de los Angeles  |
 | :------------- |:-------------| :-----|
