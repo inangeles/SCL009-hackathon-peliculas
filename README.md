@@ -22,7 +22,7 @@ Finalmente, el usuario tendrá la posibilidad de conectar con otros fans a trav�
 ![ourpage](https://i.ibb.co/Q6d5SyM/screenshot.jpg)
 (prototipo Figma)
 
-La aplicación es muy amigable y fácil de navegar. ¡Sólo debes acceder a este [enlace]() y ya estaras inmerso en el mundo de la Tierra Media!
+La aplicación es muy amigable y fácil de navegar. ¡Sólo debes acceder a este [enlace](https://javie-lau.github.io/hackaton-pelicula-009/src/index.html#) y ya estaras inmerso en el mundo de la Tierra Media!
 La barra de menú en la parte superior te llevará a todo lo que puedes acceder en **La Coumunidad del Anillo**. :ring:
 
 -------
@@ -58,6 +58,12 @@ El prototipo de alta fidelidad completo se puede visualizar en [Figma.](https://
 
 -------
 ## Futuras Mejoras
+
+En un futuro y teniendo un poco mas de tiempo, nos gustaria realizar las siguientes mejoras:
+* Incluir videos dentro de la pagina
+* Tener disponible trivias y juegos relacionados
+* Poder compartir contenido a traves de Whatsapp
+
 -------
 ## Equipo
 
