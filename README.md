@@ -48,17 +48,21 @@ Durante la duración del proyecto utilizamos la herramienta [Trello](https://tre
 ### Prototipo Baja Fidelidad
 ![bajafidelidad](https://i.ibb.co/CHN6DTJ/baja-fidelidad.jpg)
 ![gif](https://media.giphy.com/media/YQLwysm1lQW8T6BWxg/giphy.gif)
+
 El test de usuario de baja fidelidad se encuentra en el siguiente enlace: [YouTube](https://www.youtube.com/watch?v=-sEozLmTijY&feature=youtu.be)
 
 ### Prototipo Alta Fidelidad
 ![figma](https://i.ibb.co/J2ZW82N/alta-fidelidad.jpg)
+
 El prototipo de alta fidelidad completo se puede visualizar en [Figma.](https://www.figma.com/file/UafrePR5ALJyz59XhTSgJov0/LOTR?node-id=0%3A1)
 
 -------
 ## Futuras Mejoras
 -------
 ## Equipo
+
 Integrantes y division de tareas:
+
 | Laura         | Agatha        | Maria de los Angeles  |
 | :------------- |:-------------| :-----|
 | HTML          | HTML          | UX Design / Figma |
