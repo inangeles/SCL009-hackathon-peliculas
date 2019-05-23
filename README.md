@@ -1,91 +1,69 @@
-# "Hackathon" de final de _Common Core_, películas
-
- ## Índice
-
- * [Preámbulo](#preámbulo)
-* [Resumen del proyecto](#resumen-del-proyecto)
-* [Consideraciones generales](#consideraciones-generales)
-* [Objetivos de aprendizaje](#objetivos-de-aprendizaje)
-* [Parte obligatoria](#parte-obligatoria)
-* [Consideraciones técnicas](#consideraciones-técnicas)
-
- ***
-
- ## Preámbulo
-
- Con la aparición de plataformas para ver películas en la nube, como Netflix o
-Hulu, ver películas desde donde estés, comiendo lo que quieras
-(sin tener que pagar precios ridículos por pop-corn / pipoca / palomitas /
-canchita / cabritas), parando si es necesario, teniendo acceso a una cantidad
-abrumadora de películas... ha cambiado la experiencia del usuario
-y modificado el mercado de las películas a nivel global.
-
- ![Pelis](https://media.giphy.com/media/NipFetnQOuKhW/giphy.gif)
-
- ## Resumen del proyecto
-
- Durante estos días crearás el producto que tú quieras alrededor del mundo
-de las películas. Puede ser un sitio que hable de las mejores películas
-latinoamericanas, uno que recomiende las películas recién estrenadas en Netflix,
-uno de pelis de terror... o... ¡lo que quieras!
-
- ## Consideraciones generales
-
- * Este proyecto se debe resolver en equipos de hasta 4 personas.
-* Usa la API de [OMDB](http://www.omdbapi.com/) (The Open Movie Database).
-* Tiempo para completar el reto: 3 días.
+#Índice
+ * [La Comunidad del Anillo](#la-comunidad-del-anillo)
+ * [Modo de Uso](#modo-de-uso)
+ * [Inspiración y Planificación](#inspiración-y-planificación)
+ * [Historias de Usuario](#historias-de-usuario)
+ * [Prototipado](#prototipado)
+ * [Futuras Mejoras](#futuras-mejoras)
+ * [Equipo](#equipo)
 
 
- ## Objetivos de aprendizaje
+##La Comunidad del Anillo
+![el anillo](http://statuecollectibles.com/storage/the-ring-lord-of-the-rings-jrr-tolkien.jpg)
 
- * Enfrentarte a un reto de corta duración en el que pongas en práctica todo
-lo aprendido hasta ahora.
-* Que sigas desarrollando tus habilidades de trabajo en equipo. Mientras más
-personas en un equipo de trabajo, mayor complejidad para: tener un entendimiento
-común, seguir el flujo de trabajo, buscar consensos, etc.
+**La Comunidad del Anillo** es una aplicación orientada a fanaticos de la saga *El Señor de los Anillos* y el mundo de J.R.R. Toklien, autor de los libros de los cuales fueron adaptadas las peliculas.
 
- ## Parte Obligatoria
+En nuestra página el usuario podrá visualizar las películas que han sido estrenadas hasta el día de hoy, así como también enlaces que lo dirigirán a sitios web donde podrá ver las peliculas gratis.
+Además, el sitio cuenta con una galería de arte con dibujos, pinturas, arte digital, etc. que han sido creados por otros fans.
+Finalmente, el usuario tendrá la posibilidad de conectar con otros fans a través de las redes sociales sugeridas en nuestro sitio.
 
- * Todo el planeamiento del trabajo deberá ser detallado en un repositorio único
-por _squad_ en el que se presente el _planning_, el _research_, los _sketches_
-y las inspiraciones utilizadas para definir el producto.
-* Además, deberás detallar en el archivo _readme_, qué hizo cada una en el
-proyecto.
-* El producto deberá presentarse publicado en github pages.
+-------
+##Modo de Uso
+![ourpage](https://i.ibb.co/Q6d5SyM/screenshot.jpg)
+(prototipo Figma)
 
- ## Consideraciones técnicas
+La aplicación es muy amigable y fácil de navegar. ¡Sólo debes acceder a este [enlace]() y ya estaras inmerso en el mundo de la Tierra Media!
+La barra de menú en la parte superior te llevará a todo lo que puedes acceder en **La Coumunidad del Anillo**. :ring:
 
- * El diseño visual de los componentes es de libre elección de las estudiantes,
-sin embargo, si no quieren crearlo desde cero, pueden utilizar el que
-propuso [Walmart](https://drive.google.com/file/d/0B6GBtl-gO6LwaVprQkFqTGI2a28/view).
-* Deberán usar al menos un framework de css.
+-------
 
+##Inspiración y Planificación
+Para la creación del proyecto, nos inspiramos en ofrecerle un espacio a nuestros usuarios que fuera mas allá de únicamente ver peliculas en línea. Quicímos brindar una experiencia más placentera y plena ya que la mayoría de fans de la saga de *El Señor de los Anillos* que se entrevistaron también son amantes de los libros y del mundo de Tolkien en general.
 
-## Horario
+Durante la duración del proyecto utilizamos la herramienta [Trello](https://trello.com/b/aNlnrLUQ/hackaton-pel%C3%ADculas-009) para mantener una organzación mas ordenada y nos mantuvimos en contacto constante para lograr un producto uniforme.
 
-|       |   Jueves          |  Viernes                     |Miércoles                      | Jueves                                |
-|------ | ------------------| ---------------------------- | ----------------------------- | ------------------------------------- |
-| 8:00  |                   |  Daily por squad             |  Daily por squad              | Daily por squad                       |
-| 9:00  |                   |  Hackeo                      |  Hackeo                       | Hackeo/Detalles finales               |         
-| 10:00 |                   |                              |                               | Inscripción de aplicaciones           |
-| 11:00 |                   |                              |                               | Feria de demostraciones               |           
-| 12:00 | Kick off hackaton |                              |                               | Presentación de mejores squads        |
-|>13:00 |Sesión de planificación|                          |                               | Deliberación del jurado               |
-| 20:00 |                   |                              |                               |                                       |
+-------
+##Historias de Usuario
+* **Como** fan de la saga de *El Señor de los Anillos* quiero encontrar **dónde** ver las películas grátis en línea **para** tener acceso fácil a ellas.
+* **Como** amante del mundo de Tolkien quiero **acceder** a comunidades en Chile de otros fans **para** hacer amigos con gustos similares.
 
-## Tips para la organización de trabajo entre UX y Front end 
+---------
+##Prototipado
+###Flujo de Usuario
+![flujousuario](https://i.ibb.co/nBxtL9v/flujo-usuario.jpg)
 
-* Las UX y FE entienden en conjunto el reto en el que van a trabajar, se organizan y arman sus primeros bocetos.
-* Con los primeros bocetos/ideas, las FE pasan a crear su ambiente de desarrollo y a crear componentes atómicos que luego les sea fácil personalizar con CSS y utilizar para crear interfaces más complejas. Además, las FE empiezan también a trabajar en la lógica de la aplicación. Mientras tanto, las UX crean una guía de estilos, los flujos de usuarios, hacen un prototipo más completo y lo testean.
-* Las UX comparten el prototipo testeado, para que el equipo empiece a personalizar los componentes y a ponerlos en conjunto.
-* Las UX hacen QA y testing con los releases que vayan haciendo las FE.
-* Planifiquen, historias de usuario y definition of done son importantísimos.
-* Usen las ceremonias ágiles para saber en que van como equipo, dailys y retrospectivas diarias son esenciales.
-* Iteren, iteren, iteren.
+###Sketch
+![sketches](https://i.ibb.co/ygKL6Mw/sketch-0.jpg)![sketches](https://i.ibb.co/X7KKvbj/sketch-1.jpg)![sketches](https://i.ibb.co/b25w035/sketch-2.jpg)
 
-## ¿Qué es la Feria de demos?
+###Prototipo Baja Fidelidad
+![bajafidelidad](https://i.ibb.co/CHN6DTJ/baja-fidelidad.jpg)
+![gif](https://media.giphy.com/media/YQLwysm1lQW8T6BWxg/giphy.gif)
+El test de usuario de baja fidelidad se encuentra en el siguiente enlace: [YouTube](https://www.youtube.com/watch?v=-sEozLmTijY&feature=youtu.be)
 
-La feria de demos se realizará el día de las presentaciones, consiste en la dinámica de “speed dating”, cada squad presentará su demo durante 3 minutos a un grupo de personas, entre ellos los jurados de la Hackathon. Luego de los 3 minutos sonará una chicharra y el grupo de personas rotará al siguiente squad, de esta forma deberán presentar durante una hora. 
+###Prototipo Alta Fidelidad
+![figma](https://i.ibb.co/J2ZW82N/alta-fidelidad.jpg)
+El prototipo de alta fidelidad completo se puede visualizar en [Figma.](https://www.figma.com/file/UafrePR5ALJyz59XhTSgJov0/LOTR?node-id=0%3A1)
 
-* Las demos no deben durar más de 3 minutos y deben mostrar el producto y las tecnologías usadas.
-* Los asistentes van a votar por los 4 equipos finalistas, quienes tendrán la oportunidad de hacer su demo a todo el público para poder elegir un ganador. 
+-------
+##Futuras Mejoras
+-------
+##Equipo
+Integrantes y division de tareas:
+| Laura         | Agatha        | Maria de los Angeles  |
+| :------------- |:-------------| :-----|
+| HTML          | HTML          | UX Design / Figma |
+| CSS           | CSS           | Historias de Usuario / Testing |
+| JavaScript    | Bootstrap     | Flujo de Usuario / Sketches|
+| Lógica        | Responsive    | Prototypes |
+| Funciones     | JavaScript/Modificaciones    | README |
+| Planning      | Planning      |  Planning |
